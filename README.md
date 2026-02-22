@@ -9,7 +9,7 @@ This project demonstrates a **real-time computer vision safety system** that det
 
 It is designed as a **proof-of-concept (PoC)** for **ports, harbors, industrial sites, and construction zones**, where restricted areas must be actively monitored to prevent accidents.
 
-Hugging Face demo: https://huggingface.co/spaces/KPrashanth/Yolo_detect
+### Hugging Face demo: https://huggingface.co/spaces/KPrashanth/Yolo_detect
 ---
 
 ## 🎯 Problem Statement
